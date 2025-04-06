@@ -2,6 +2,7 @@
 
 [![Build Status](https://img.shields.io/github/workflow/status/yourusername/mosaic/Build)](https://github.com/yourusername/mosaic/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub stars](https://img.shields.io/github/stars/yourusername/mosaic.svg)](https://github.com/yourusername/mosaic/stargazers) [![GitHub issues](https://img.shields.io/github/issues/yourusername/mosaic.svg)](https://github.com/yourusername/mosaic/issues)
 
+![Page 8](https://github.com/user-attachments/assets/d450aa47-d8fa-47b6-bfc3-c01b0245aa3c)
 
 **AI Discovery Agent & Digest Generator**
 
