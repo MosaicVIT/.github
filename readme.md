@@ -1,5 +1,8 @@
 # Mosaic
 
+[![Build Status](https://img.shields.io/github/workflow/status/yourusername/mosaic/Build)](https://github.com/yourusername/mosaic/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub stars](https://img.shields.io/github/stars/yourusername/mosaic.svg)](https://github.com/yourusername/mosaic/stargazers) [![GitHub issues](https://img.shields.io/github/issues/yourusername/mosaic.svg)](https://github.com/yourusername/mosaic/issues)
+
+
 **AI Discovery Agent & Digest Generator**
 
 Mosaic is a groundbreaking project that redefines the way we discover, digest, and interact with the ever-evolving landscape of AI research and tools. Designed for tech enthusiasts, industry professionals, and curious minds alike, Mosaic blends cutting-edge technology with an intuitive, visually immersive interface to keep you ahead of the curve.
