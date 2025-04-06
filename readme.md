@@ -111,13 +111,13 @@ Open your browser and navigate to `http://localhost:8000` (or the configured por
 
 ## Contributing
 
-We welcome contributions from developers, researchers, and AI enthusiasts! Please see our `CONTRIBUTING.md` file for guidelines on how to get involved. *(Note: You will need to create this file)*
+We welcome contributions from developers, researchers, and AI enthusiasts!
 
 ---
 
 ## License
 
-Mosaic is released under the MIT License. Feel free to use, modify, and distribute it as per the license terms. See the `LICENSE` file for more details. *(Note: You will need to add a LICENSE file with the MIT License text)*
+Mosaic is released under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
 
 ---
 
