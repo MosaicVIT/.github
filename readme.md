@@ -1,6 +1,3 @@
-Okay, here is the provided text converted into a standard README.md format using Markdown for proper headings, bolding, italics, lists, and code blocks.
-
-```markdown
 # Mosaic
 
 **AI Discovery Agent & Digest Generator**
@@ -127,4 +124,3 @@ Mosaic is released under the MIT License. Feel free to use, modify, and distribu
 Dive into the future of AI discovery with **Mosaic**—where innovation meets clarity, and every update propels you toward the next breakthrough in artificial intelligence.
 ```
 
-This version uses standard Markdown formatting that will render correctly on platforms like GitHub, GitLab, etc. Remember to replace placeholder URLs and filenames as needed and create the `CONTRIBUTING.md` and `LICENSE` files.
