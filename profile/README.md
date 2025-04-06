@@ -86,3 +86,47 @@ To set up and run Mosaic on your local machine, follow these steps:
 **1. Clone the Repository**:
 ```bash
 git clone https://github.com/yourusername/mosaic.git
+```
+*(Note: Replace yourusername/mosaic.git with the actual repository URL)*
+
+**2. Install Dependencies**:
+```bash
+cd mosaic 
+pip install -r requirements.txt
+```
+
+**3. Configure Environment Variables**:
+Set up your API keys and other necessary settings in the .env file. Refer to .env.example for required variables.
+
+**4. Run the Application**:
+```bash
+python main.py
+```
+
+**5. Access the Interface**:
+Open your browser and navigate to http://localhost:8000 (or the configured port) to experience Mosaic in action.
+
+---
+
+## Roadmap
+
+-   **Enhanced AI Recommendations**: Integrate advanced ML models for even more personalized content.
+-   **Community Contributions**: Enable community-driven tagging and content review.
+-   **Mobile Integration**: Expand Mosaic's capabilities to mobile platforms for on-the-go updates.
+-   **Expanded Data Sources**: Incorporate additional AI research repositories and platforms.
+
+---
+
+## Contributing
+
+We welcome contributions from developers, researchers, and AI enthusiasts!
+
+---
+
+## License
+
+Mosaic is released under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
+
+---
+
+Dive into the future of AI discovery with **Mosaic**—where innovation meets clarity, and every update propels you toward the next breakthrough in artificial intelligence.
