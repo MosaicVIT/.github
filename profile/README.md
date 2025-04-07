@@ -1,4 +1,4 @@
-# Mosaic
+# Mosaic: Your AI Discovery Agent & Digest Generator 🚀
 
 
 [![Build Status](https://img.shields.io/github/workflow/status/MosaicVIT/mosaicWeb/Build)](https://github.com/MosaicVIT/mosaicWeb/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub stars](https://img.shields.io/github/stars/MosaicVIT/mosaicWeb.svg)](https://github.com/MosaicVIT/mosaicWeb/stargazers) [![GitHub issues](https://img.shields.io/github/issues/MosaicVIT/mosaicWeb.svg)](https://github.com/MosaicVIT/mosaicWeb/issues)
@@ -6,129 +6,136 @@
 
 ![Page 8](https://github.com/user-attachments/assets/f47c17c8-0511-484b-a3a5-d77f414a816c)
 
-**AI Discovery Agent & Digest Generator**
 
-Mosaic is a groundbreaking project that redefines the way we discover, digest, and interact with the ever-evolving landscape of AI research and tools. Designed for tech enthusiasts, industry professionals, and curious minds alike, Mosaic blends cutting-edge technology with an intuitive, visually immersive interface to keep you ahead of the curve.
-
----
-
-## Overview
-
-**Mosaic** automates the discovery of AI breakthroughs by aggregating the latest releases from trusted platforms like GitHub, Hugging Face, and ArXiv. Through advanced data compilation and intelligent agents, it curates personalized digests and interactive visualizations that cater to both technical experts and non-technical users.
+**Welcome to Mosaic** — a revolutionary platform that redefines how you explore, digest, and interact with the ever-evolving world of AI research, tools, and innovations. Whether you're a tech enthusiast, an industry expert, or just AI-curious — Mosaic is your personalized gateway to the future of artificial intelligence.
 
 ---
 
-## Key Features
+## 🔍 What is Mosaic?
+Mosaic is a smart AI aggregation and summarization platform that **automatically discovers** the latest breakthroughs, tools, and research papers in AI from **trusted sources like GitHub, Hugging Face, and ArXiv**. Using a **powerful swarm of scraping and agent-based systems**, it delivers:
+- **Real-time AI research aggregation**
+- **Personalized digests**
+- **Interactive visualizations**
+- **Dual-mode article views (technical / non-technical)**
+- **Audio summaries, timelines, and trend graphs**
 
-- **Real-Time Aggregation**  
-  Seamlessly fetch the latest AI tools, models, and research via APIs and smart scraping techniques from multiple trusted sources.
-
-- **Personalized Digest & Subscription**  
-  Enjoy daily or weekly digests, customized to your interests. Receive curated summaries through email or in-app notifications.
-
-- **Decentralized Discovery Interface**  
-  Navigate using a revolutionary decentralized graph interface. Instead of traditional scroll bars, explore nodes that expand into related content through an intelligent similarity search.
-
-- **Dual-Perspective Content**  
-  Toggle between technical and non-technical views for each article and digest, ensuring accessibility without sacrificing depth.
-
-- **Advanced Scraping Agents**  
-  Leverage state-of-the-art tools like Tavily, Selenium, and BeautifulSoup to extract and compile data from sources such as GitHub, ArXiv, and Hugging Face.
-
-- **Automated Data Compilation & Tagging**  
-  Intelligent agents compile, categorize, and tag data into coherent, digestible content that aligns with your interests.
-
-- **Dynamic Diagram & Image Generation**  
-  When visual aids are needed, dedicated agents assess and generate high-quality diagrams and images on the fly.
-
-- **Trending Visualizations & Timeline Views**  
-  Explore interactive trend graphs and timelines that map the growth and evolution of AI models and tools over time.
-
-- **Audio Summarization & Advanced Filters**  
-  Access succinct audio summaries and apply robust filtering to pinpoint exactly what you need.
-
-- **Underlying RAG System**  
-  All data is stored as embeddings in a Retrieval Augmented Generation system for lightning-fast, accurate content retrieval.
+> 💡 *We're scraping data every 3 hours and processing thousands of research updates daily so you don't have to!*
 
 ---
 
-## Architecture
+## 🌟 Key Features
 
-Mosaic's architecture is designed for scalability and efficiency:
+### 🔄 Real-Time Aggregation
+- Fetches updates from **GitHub, Hugging Face, ArXiv**, and more via smart APIs and scraping agents.
+- Refreshes **every 3 hours** to stay ahead of the curve.
 
-- **Scraping Agents**: Continuously scan and extract data from multiple trusted sources.
-- **Data Compiler Agent**: Aggregates and structures the gathered data into a coherent digest.
-- **Tag Making Agent**: Automatically categorizes content for streamlined discovery.
-- **Digest Evaluation Agent**: Ensures the quality and relevance of generated digests.
-- **Image Generation Agent**: Produces necessary visual content if absent in the initial digest.
-- **Decentralized Graph Interface**: Provides an innovative way to browse content through dynamic, clickable nodes.
-- **Interactive Visual Components**: Includes trend graphs, timelines, and audio summaries to enhance user experience.
+### 📨 Personalized Digest & Subscriptions
+- Choose daily or weekly digests.
+- Curated summaries **tailored to your interests** delivered via email or in-app notifications.
+
+### 🌐 Decentralized Discovery Interface
+- Explore a **node-based graph** instead of a boring scroll feed.
+- Dynamic, clickable nodes let you visually navigate related content.
+
+### 👥 Dual-Perspective Content
+- Toggle between **technical insights** and **layman-friendly explanations**.
+- Great for both developers and non-tech users.
+
+### 🧠 Advanced Scraping Agents
+- Uses **Tavily, Selenium, BeautifulSoup** and more.
+- Combines smart crawling with AI for **high-accuracy parsing**.
+
+### 🧩 Automated Data Compilation & Tagging
+- AI agents automatically categorize and tag content for seamless discovery.
+
+### 🖼️ Dynamic Diagram & Image Generation
+- Missing visuals? No worries.
+- Mosaic generates **on-the-fly diagrams and images** to aid comprehension.
+
+### 📈 Trending Visualizations & Timelines
+- Interactive graphs that track **model evolution**, **trending topics**, and **research momentum**.
+
+### 🔊 Audio Summarization + Advanced Filters
+- Listen to content summaries when reading isn’t convenient.
+- Apply powerful filters to **find exactly what you need**.
+
+### ⚡ Powered by RAG (Retrieval Augmented Generation)
+- All content is stored as vector embeddings.
+- Enables **lightning-fast search**, semantic understanding, and **hyper-personalized results**.
 
 ---
 
-## How It Works
+## 🧱 System Architecture
 
-1. **Data Collection**:  
-   Scraping agents pull in the latest AI research, models, and tools from GitHub, ArXiv, Hugging Face, and more.
-2. **Processing & Compilation**:  
-   The data compiler organizes this influx of information while the tag making agent categorizes it for easy navigation.
-3. **Digest Creation**:  
-   Personalized digests are generated, evaluated, and enhanced with diagrams or images as needed.
-4. **User Interaction**:  
-   Explore content via a modern, decentralized interface with dynamic graphs and interactive nodes, switching seamlessly between technical and layman views.
-5. **Visualization & Trends**:  
-   Analyze emerging trends and major AI milestones with interactive visual tools and timelines.
+Mosaic is modular and scalable. Here’s what powers the magic:
+
+- **Scraping Agents**: Continuously crawl GitHub, Hugging Face, ArXiv, and more.
+- **Data Compiler Agent**: Structures raw data into digestible formats.
+- **Tag Making Agent**: Auto-categorizes content for user preferences.
+- **Digest Evaluation Agent**: Ensures quality, relevance, and coherence.
+- **Image Generation Agent**: Creates contextual diagrams and visuals.
+- **RAG-Based Knowledge Store**: Embeds content for rapid, intelligent retrieval.
+- **Decentralized Graph Interface**: Visually immersive way to explore.
+- **Interactive Components**: Timelines, trend graphs, and audio summaries.
 
 ---
 
-## Getting Started
+## 🌐 Try Mosaic Now — No Setup Required!
+🎉 **Live Demo Available:** You don’t need to install or configure anything to try Mosaic.
 
-To set up and run Mosaic on your local machine, follow these steps:
+👉 **[Launch Mosaic in Your Browser](https://mosaicvit.github.io/mosaicWeb)**
 
-**1. Clone the Repository**:
+Explore, discover, and interact with the AI universe instantly. No downloads, no dependencies. Just click and go.
+
+---
+
+## ⚙️ Developer Setup (Optional)
+
+Want to run Mosaic locally or contribute?
+
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/mosaic.git
 ```
-*(Note: Replace yourusername/mosaic.git with the actual repository URL)*
 
-**2. Install Dependencies**:
+### 2. Install Dependencies
 ```bash
-cd mosaic 
+cd mosaic
 pip install -r requirements.txt
 ```
 
-**3. Configure Environment Variables**:
-Set up your API keys and other necessary settings in the .env file. Refer to .env.example for required variables.
+### 3. Set Up Environment Variables
+Configure your `.env` file using `.env.example` as a reference.
 
-**4. Run the Application**:
+### 4. Run the App
 ```bash
 python main.py
 ```
 
-**5. Access the Interface**:
-Open your browser and navigate to http://localhost:8000 (or the configured port) to experience Mosaic in action.
+### 5. Access the Interface
+Navigate to `http://localhost:8000` to begin exploring Mosaic!
 
 ---
 
-## Roadmap
-
--   **Enhanced AI Recommendations**: Integrate advanced ML models for even more personalized content.
--   **Community Contributions**: Enable community-driven tagging and content review.
--   **Mobile Integration**: Expand Mosaic's capabilities to mobile platforms for on-the-go updates.
--   **Expanded Data Sources**: Incorporate additional AI research repositories and platforms.
-
----
-
-## Contributing
-
-We welcome contributions from developers, researchers, and AI enthusiasts!
+## 🛣️ Roadmap
+- ✅ **Personalized Digests**
+- 🔜 **ML-Powered Recommendations**
+- 🔜 **Mobile App Support**
+- 🔜 **Community-Driven Tagging & Reviews**
+- 🔜 **More Data Sources (Papers with Code, Reddit AI Threads)**
 
 ---
 
-## License
-
-Mosaic is released under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
+## 🤝 Contributing
+We love contributions! Whether you're into backend scraping, NLP, UI design, or just have cool ideas — come build Mosaic with us.
 
 ---
 
-Dive into the future of AI discovery with **Mosaic**—where innovation meets clarity, and every update propels you toward the next breakthrough in artificial intelligence.
+## 📄 License
+**Mosaic** is open-source under the **MIT License**. Use, modify, and distribute with love. ❤️
+
+---
+
+## 🚀 Dive Into the Future of AI Discovery
+Mosaic isn’t just a tool — it’s a new way of seeing the AI world. With every click, digest, and graph, you’re stepping into the frontier of artificial intelligence.
+
