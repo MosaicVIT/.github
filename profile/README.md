@@ -1,6 +1,6 @@
 # Mosaic
 
-[![Build Status](https://img.shields.io/github/workflow/status/yourusername/mosaic/Build)](https://github.com/MosaicVIT/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub stars](https://img.shields.io/github/stars/yourusername/mosaic.svg)](https://github.com/yourusername/mosaic/stargazers) [![GitHub issues](https://img.shields.io/github/issues/yourusername/mosaic.svg)](https://github.com/yourusername/mosaic/issues)
+[![Build Status](https://img.shields.io/github/workflow/status/MosaicVIT/Build)](https://github.com/MosaicVIT/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub stars](https://img.shields.io/github/stars/yourusername/mosaic.svg)](https://github.com/yourusername/mosaic/stargazers) [![GitHub issues](https://img.shields.io/github/issues/yourusername/mosaic.svg)](https://github.com/yourusername/mosaic/issues)
 
 ![Page 8](https://github.com/user-attachments/assets/f47c17c8-0511-484b-a3a5-d77f414a816c)
 
