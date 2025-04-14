@@ -3,7 +3,7 @@
 
 [![Build Status](https://img.shields.io/github/workflow/status/MosaicVIT/mosaicWeb/Build)](https://github.com/MosaicVIT/mosaicWeb/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![GitHub stars](https://img.shields.io/github/stars/MosaicVIT/mosaicWeb.svg)](https://github.com/MosaicVIT/mosaicWeb/stargazers) [![GitHub issues](https://img.shields.io/github/issues/MosaicVIT/mosaicWeb.svg)](https://github.com/MosaicVIT/mosaicWeb/issues)
 
-[![Mosaic Demo Video](https://img.youtube.com/vi/Q9KcrjQiAkk/maxresdefault.jpg)](https://youtu.be/Q9KcrjQiAkk)
+[![Mosaic Demo Video](https://img.youtube.com/vi/Q9KcrjQiAkk/0.jpg)](https://youtu.be/Q9KcrjQiAkk)
 
 
 **Welcome to Mosaic** — a revolutionary platform that redefines how you explore, digest, and interact with the ever-evolving world of AI research, tools, and innovations. Whether you're a tech enthusiast, an industry expert, or just AI-curious — Mosaic is your personalized gateway to the future of artificial intelligence.
